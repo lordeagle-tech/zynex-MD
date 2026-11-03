@@ -1,0 +1,12 @@
+{
+  "autostatusview": false,
+  "autostatusreact": false,
+  "antiviewonce": false,
+  "autoread": false,
+  "autotyping": false,
+  "autorecording": false,
+  "autotypingrecording": false,
+  "antidelete": false,
+  "antilink": "off",
+  "sudo": []
+}
