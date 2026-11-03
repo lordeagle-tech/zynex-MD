@@ -215,3 +215,27 @@ This project is provided for educational and personal automation purposes. Use i
 ## License
 
 This project is released under the MIT License. See [`package.json`](package.json) for the project metadata.
+
+<div align="center">
+
+<br>
+
+<h2>💠 ZYNEX TECH</h2>
+
+<p><strong>Base Creator &amp; Developer</strong></p>
+
+<p>
+  <a href="https://github.com/lordeagle-tech">
+    <img src="https://img.shields.io/badge/GitHub-Lordeagle--Tech-00FFFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="Lordeagle Tech on GitHub">
+  </a>
+  <a href="https://wa.me/254717459770">
+    <img src="https://img.shields.io/badge/WhatsApp-Owner-00FFFF?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Contact the owner on WhatsApp">
+  </a>
+  <a href="https://whatsapp.com/channel/0029Vb8LcTLKWEKo4JlMb51I">
+    <img src="https://img.shields.io/badge/Channel-Join%20Us-00FFFF?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" alt="Join the Zynex Tech WhatsApp channel">
+  </a>
+</p>
+
+<p><em>Built with passion, powered by innovation.</em></p>
+
+</div>
