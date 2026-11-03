@@ -80,6 +80,8 @@ Choose either session service below to generate or retrieve a Session ID:
   <a href="https://www.eaglegnick.tech" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SESSION%201-eaglegnick.tech-2563eb?style=for-the-badge" alt="Get Session 1 from eaglegnick.tech">
   </a>
+</p>
+<p>
   <a href="https://session.lordeagle.tech" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/SESSION%202-session.lordeagle.tech-16a34a?style=for-the-badge" alt="Get Session 2 from session.lordeagle.tech">
   </a>
@@ -106,21 +108,23 @@ The bot stores authentication data in the configured `sessions` directory. Never
 
 The default prefix is `^`, so a command looks like `^ping`. The prefix can be changed by the owner with `^setprefix !`.
 
-Use the bot's menu command to view the active commands and categories. The currently active plugin categories include:
+Use the bot's menu command to view the active commands and categories.
 
-- **General:** `alive`, `ping`, `speed`, `uptime`, `runtime`, `baileys`
-- **AI:** `vision`, `imagine`, `tts`, `shazam`, `text2music`, `text2video`, `lyricsgen`, `speechwriter`
-- **Download:** `play`, `video`, `tiktok`, `instagram`, `facebook`, `twitter`, `spotify`, `soundcloud`, `pinterest`, `capcut`, `applemusic`, `mediafire`, `telegram`, `apk`
-- **Group:** `groupinfo`, `admins`, `promote`, `demote`, `kick`, `add`, `tagall`, `hidetag`, `group`, `mute`, `unmute`, `gname`, `gdesc`, `gpic`, `kickall`, `gid`, `del`
-- **Owner:** `mode`, `public`, `self`, `owner`, `setprefix`, `setbio`, `setname`, `setpp`, `join`, `block`, `unblock`, `eval`, `exec`, `restart`
-- **Settings:** `antilink`, `addsudo`, `delsudo`, `sudolist`, `settings`
-- **Search:** `images`, `reverseimage`, `lyrics`, `biblesearch`, `stickersearch`, `tgs`, `movsearch`, `iguser`
-- **Tools:** `translate`, `tempmail`, `inbox`, `fancy`, `ssweb`, `ip`, `onwa`, `pp`, `walink`, `tempnumber`, `github`, `ascii`, `exchange`
-- **News:** `news`, `footballnews`
-- **Movies:** `movie`, `trailer`, `ibox`, `dramabox`, `actor`
-- **Spiritual:** `bible`, `hymn`, `adventist`, `surahlist`, `surah`
-- **Education:** `dictionary`, `poem`
-- **Fun and random:** `meme`, `quoteaudio`, `randomvid`, `randomncs`, `randombible`, `inspirobot`
+| Category | Main commands |
+| --- | --- |
+| General | `alive`, `ping`, `speed`, `uptime`, `runtime`, `baileys` |
+| AI | `vision`, `imagine`, `tts`, `shazam`, `text2music`, `text2video` |
+| Download | `play`, `video`, `tiktok`, `instagram`, `facebook`, `spotify`, `mediafire` |
+| Group | `groupinfo`, `admins`, `promote`, `demote`, `kick`, `add`, `tagall`, `group` |
+| Owner | `mode`, `public`, `self`, `owner`, `setprefix`, `setbio`, `setname`, `restart` |
+| Settings | `antilink`, `addsudo`, `delsudo`, `sudolist` |
+| Search | `images`, `reverseimage`, `lyrics`, `biblesearch`, `stickersearch`, `movsearch` |
+| Tools | `translate`, `tempmail`, `inbox`, `fancy`, `ssweb`, `ip`, `onwa`, `github` |
+| News | `news`, `footballnews` |
+| Movies | `movie`, `trailer`, `ibox`, `dramabox`, `actor` |
+| Spiritual | `bible`, `hymn`, `adventist`, `surahlist`, `surah` |
+| Education | `dictionary`, `poem` |
+| Fun and random | `meme`, `quoteaudio`, `randomvid`, `randomncs`, `randombible`, `inspirobot` |
 
 Aliases are also available. For example, `^ping`, `^speed`, and `^latency` provide related status or response checks where supported.
 
@@ -201,8 +205,8 @@ module.exports = {
 
 ## Credits
 
+- **Base creator:** Zynex Tech
 - **Project and bot:** [Lordeagle Tech](https://github.com/lordeagle-tech)
-- **Original base author:** Debraj
 - **WhatsApp library:** [Baileys](https://github.com/WhiskeySockets/Baileys)
 
 ## Disclaimer
