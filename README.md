@@ -197,7 +197,6 @@ module.exports = {
 ├── settings/config.js    # Bot and owner configuration
 ├── settings/prefix.json  # Current command prefix
 ├── plugins/              # Active command plugins
-├── plugins_disabled/     # Disabled or archived plugins
 ├── library/              # Shared helpers and services
 ├── thumbnail/            # Bot media assets
 └── sessions/             # Local WhatsApp authentication data
